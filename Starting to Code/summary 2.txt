@@ -1,0 +1,8 @@
+1) Various type of Declaring Variables
+2)Finding Type of Variables
+3)String Operations
+4)Shadowing The Variables
+5)Typecasting
+6)Boolean
+7)Arithmetic operations
+8)Some primitive types 
